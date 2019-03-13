@@ -17,11 +17,11 @@ Please also refer to https://webgate.ec.europa.eu/tl-browser/
 | Country | Country where QTSP is located |
 | Website | Direct link to QTSP's PSD2 eIDAS services page |
 | Other Contact Details | e.g. email, phone |
-| Test QWAC | pricing and availability, e.g. €500pa (available now) |
-| Prod QWAC | pricing and availability, e.g. €500pa (available now) |
-| Test QsealC | pricing and availability, e.g. €500pa (available now) |
-| Prod QsealC | pricing and availability, e.g. €500pa (available now) |
-| Process to obtain | e.g. can these certificates be purchased online, or does this have to be in person | 
+| Test QWAC | availability, e.g. Y, N or planned date |
+| Prod QWAC | availability, e.g. Y, N or planned date |
+| Test QsealC | availability, e.g. Y, N or planned date |
+| Prod QsealC | availability, e.g. Y, N or planned date) |
+| Process to obtain | e.g. can these certificates be procured online, or does this have to be in person | 
 | HSM requirements / support | e.g. are HSMs required, and if so, which cloud HSMs are supported |
 | Notes | any other notes |
 
