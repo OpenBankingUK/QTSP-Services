@@ -1,9 +1,9 @@
 # Availability of QTSP services relating to PSD2 eIDAS certificates
 Public repo for sharing information about availability of QTSP services relating to PSD2 eIDAS certificates.
 
-## Caveat
+## Disclaimer
 
-This repo can be updated by any GitHub user, and therefore the information on this page can change at any time without notice. Any participant who edits this repo must act in good faith and warrant that the information they provide is accurate to the best of their knowledge. Open Banking Limited (OBIE) is making this repo available to help the ecosystem share information. OBIE is not recommending nor endorsing any service listed in this repo and takes no liability for the accuracy of the contents on this repo, nor for any damages or loss of business of any party for any reason.
+This repo can be updated by any GitHub user, and therefore the information on this page can change at any time without notice. Any participant who edits this repo must act in good faith and only provide information that is accurate to the best of their knowledge. OBIE is making this repo available to help the ecosystem to share general information. OBIE is not responsible for ensuring the accuracy of any information or contents contained on this repo. It is not intended to amount to advice. OBIE does not endorse or recommended any service listed in this repo. OBIE does not take any liability for any loss any direct or indirect or consequential loss, any loss of goodwill, reputation or opportunity, any loss of profits or revenue  whether direct or indirect as a result or attributed to information or content on this repo.
 
 ## Official list of QTSPs
 
