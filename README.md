@@ -46,7 +46,7 @@ Please also refer to [https://webgate.ec.europa.eu/tl-browser/](https://webgate.
 
 ## How to contribute
 
-Any person with a GitHub account can contribute via a pull request. Before submitting your pull requests, make sure you follow these steps:
+Any person with a GitHub account can contribute to this repo at [https://github.com/OpenBankingUK/QTSP-Services/](https://github.com/OpenBankingUK/QTSP-Services/) via a pull request. Before submitting your pull requests, make sure you follow these steps:
 
 * Create a pull request, see `contributing via pull request guide`.
 * Check that your changes are consistent with the current `.md` style. For example, using the correct headings depths.
