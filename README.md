@@ -52,7 +52,7 @@ Any person with a GitHub account can contribute to this repo at [https://github.
 * Check that your changes are consistent with the current `.md` style. For example, using the correct headings depths.
 * Ensure you have read the Contributor agreement below.
 
-## Contributing via pull request
+## Contributing via pull request guide
 
 * Create a personal fork of this repository by clicking on the fork button on the top of this page. This will create a copy of this repository in your account.
 * Clone the fork on your local machine `git clone "url you just copied"`.
