@@ -25,7 +25,7 @@ Please also refer to [https://webgate.ec.europa.eu/tl-browser/](https://webgate.
 | Krajowa Izba Rozliczeniowa S.A. | Poland |||||||||||
 | LuxTrust S.A. | Luxembourg |||||||||||
 | Microsec Micro Software Engineering & Consulting Private Company Limited by Shares | Hungary |||||||||||
-| MULTICERT - Serviços de Certificação Electrónica S.A. | Portugal |||||||||||
+| MULTICERT - Serviços de Certificação Electrónica S.A. | Portugal ||psd2@multicert.com|Y|Pending update of ETSI TS 119 495|Y|Pending update of ETSI TS 119 495|Options for F2F validation: (1) in person; (2) notarized with Hague Apostille; (3) “home delivery” at request; (4) “PSD2 workshops”|HSMs are not required. QSealC is issued without QcSSCD QcStatement.|Test certificates include OCSP and CRL services.||
 | NETLOCK Informatics and Network Privacy services Limited Company | Hungary |||||||||||
 
 ## Data dictionary
