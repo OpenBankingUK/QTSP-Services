@@ -16,7 +16,7 @@ Please also refer to [https://webgate.ec.europa.eu/tl-browser/](https://webgate.
 | Aruba Posta Elettronica Certificata S.p.A. | Italy |||||||||||
 | Bank-Verlag | Germany |||||||||||
 | Bundesdruckerei GmbH (D-Trust GmbH) | Germany |||||||||||
-| Buypass AS | Norway |||||||||||
+| Buypass AS | Norway | [https://www.buypass.com/products/eseal--and-enterprise-certificate/eidas-qualified-certificates](https://www.buypass.com/products/eseal--and-enterprise-certificate/eidas-qualified-certificates) | support@buypass.com | Y | Aiming to begin issuing in May/June 2019 | Y | Aiming to begin issuing in May/June 2019 | *Test*: Fill in a form, generate a CSR and return. Certs delivered by email. *Production*: Fill form, generate CSR, and verify identity. In the Nordics the delivery and ID check are done by the national post. Working on similar solutions for other parts of Europe.  By the end of this year hope to have a certified video solution for the ID check. | QSealC does not require a HSM/SmartCard for storing the certificate.  You are free to use AWS or any other cloud services.   | |
 | CERTSIGN S.A. | Romania |||||||||||
 | Evrotrust Technologies JSC | Bulgaria |||||||||||
 | FINA - Financijska agencija | Croatia |||||||||||
@@ -27,6 +27,10 @@ Please also refer to [https://webgate.ec.europa.eu/tl-browser/](https://webgate.
 | Microsec Micro Software Engineering & Consulting Private Company Limited by Shares | Hungary |||||||||||
 | MULTICERT - Serviços de Certificação Electrónica S.A. | Portugal ||psd2@multicert.com|Y|Pending update of ETSI TS 119 495|Y|Pending update of ETSI TS 119 495|Options for F2F validation: (1) in person; (2) notarized with Hague Apostille; (3) “home delivery” at request; (4) “PSD2 workshops”|HSMs are not required. QSealC is issued without QcSSCD QcStatement.|Test certificates include OCSP and CRL services.||
 | NETLOCK Informatics and Network Privacy services Limited Company | Hungary |||||||||||
+
+
+
+
 
 ## Data dictionary
 
