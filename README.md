@@ -13,6 +13,7 @@ Please also refer to [https://webgate.ec.europa.eu/tl-browser/](https://webgate.
 
 | QTSP Name | Country | Website | Other Contact Details | Test QWAC | Prod QWAC | Test QsealC | Prod QsealC | Process to obtain | HSM requirements / support | Notes |
 |--------------|-----------------|-----------------------------------------------|------------------------|--------------------------------|------------------------|--------------------------------|-----------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|------------------------------------------|-|
+| Actalis S.p.A. | Italy | https://www.actalis.it | info@actalis.it | Y | Y | Y | Y | Process | N ||||| 
 | Aruba Posta Elettronica Certificata S.p.A. | Italy |||||||||||
 | Bank-Verlag | Germany |||||||||||
 | Bundesdruckerei GmbH (D-Trust GmbH) | Germany |||||||||||
