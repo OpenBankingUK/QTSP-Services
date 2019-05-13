@@ -22,6 +22,7 @@ Please also refer to [https://webgate.ec.europa.eu/tl-browser/](https://webgate.
 | Evrotrust Technologies JSC | Bulgaria |||||||||||
 | FINA - Financijska agencija | Croatia |||||||||||
 | First certification authority, a.s. | Czech Republic |||||||||||
+| HARICA | Greece | [https://www.harica.gr](https://www.harica.gr) | support@harica.gr | Y | May 2019 | Y | May 2019 | **Test**: Simulate the production process but without validation of Legal representative. Just submit a request form. PSD2 certificate will be delivered by email. **Production**: Submit a request form, generate CSR, verify identity of Applicant, PSD2 roles and Authorization ID. | No Qualified Signature/Seal Creation Device (QSCD) is required for Qualified Certificate for **Advanced** electronic seal. QSCD ***is required*** only for Qualified Certificate for ***Qualified*** electronic seal. | |
 | InfoCert S.p.A. | Italy |||||||||||
 | Krajowa Izba Rozliczeniowa S.A. | Poland |||||||||||
 | LuxTrust S.A. | Luxembourg |||||||||||
